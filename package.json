@@ -1,0 +1,27 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "Learning Async/Wait/Promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngecu/Currency-Converter.git"
+  },
+  "keywords": [
+    "Asybc",
+    "Wait",
+    "Promises"
+  ],
+  "author": "DevNgecu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngecu/Currency-Converter/issues"
+  },
+  "homepage": "https://github.com/ngecu/Currency-Converter#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
